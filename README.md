@@ -1,4 +1,4 @@
-"# Credit Card Validator" 
+
 # Credit Card Validator (C++)  
 A simple C++ console application that checks whether a credit card number is valid using **Luhn’s Algorithm**.
 
@@ -36,3 +36,4 @@ If the number is invalid, the user can choose to **retry** or **quit**.
 3. Create a GUI version
 
 4. Add unit tests
+
