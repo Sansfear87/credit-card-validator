@@ -1,0 +1,50 @@
+"" 
+# Compiled source files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug / Intermediate files
+*.dSYM/
+*.pdb
+*.ilk
+*.dll
+
+# VS Code settings
+.vscode/
+.vscode/*
+*.code-workspace
+
+# Build directories
+build/
+bin/
+dist/
+Debug/
+Release/
+
+# CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup files
+*~
+*.tmp
+*.bak
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
