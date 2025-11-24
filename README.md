@@ -37,3 +37,11 @@ If the number is invalid, the user can choose to **retry** or **quit**.
 
 4. Add unit tests
 
+![Language](https://img.shields.io/badge/language-C++-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-grey)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Stars](https://img.shields.io/github/stars/Sansfear87/credit-card-validator?style=social)
+
+
+
